@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9405badb-7b2f-4a8e-8881-e565b083aba0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Y7DlVuCzs43cJt1Sb2DznKaygG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Node.js.selfInvokingFunction.js">
+    <configuration name="filterMapTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/filterMapTest.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="functionMagicTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/functionMagicTest.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="objectFreeze.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/objectFreeze.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="selfInvokingFunction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/selfInvokingFunction.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="stringTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/stringTest.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.selfInvokingFunction.js" />
+        <item itemvalue="Node.js.filterMapTest.js" />
+        <item itemvalue="Node.js.functionMagicTest.js" />
+        <item itemvalue="Node.js.objectFreeze.js" />
+        <item itemvalue="Node.js.stringTest.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9405badb-7b2f-4a8e-8881-e565b083aba0" name="Default Changelist" comment="" />
+      <created>1582284889779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582284889779</updated>
+      <workItem from="1582284896601" duration="2782000" />
+      <workItem from="1582289191334" duration="18000" />
+      <workItem from="1582289248499" duration="15237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="82" key="GridCell.Tab.0.bottom" timestamp="1582394103784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582394103784" />
+    <state width="1237" height="82" key="GridCell.Tab.0.center" timestamp="1582394103783">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582394103783" />
+    <state width="1237" height="82" key="GridCell.Tab.0.left" timestamp="1582394103783">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582394103783" />
+    <state width="1237" height="82" key="GridCell.Tab.0.right" timestamp="1582394103784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582394103784" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582290411884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582290411884" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1582289276265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582289276265" />
+    <state x="91" y="66" key="new project wizard" timestamp="1582286231890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="66" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1582286231890" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582288184027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582288184027" />
+  </component>
+</project>
